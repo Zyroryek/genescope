@@ -1,0 +1,6 @@
+{
+  "name": "GeneScope - Genetic Disorder Analytics Platform",
+  "description": "Interactive data exploration, visualization, and statistical analysis dashboard for genetic disorder datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
